@@ -1,2 +1,6 @@
-# ctf_writeups
-Security Writeups
+# CTF Writeups
+
+Current sites:
+
+* tryhackme
+* pentesterlab
